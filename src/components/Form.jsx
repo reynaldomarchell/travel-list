@@ -30,12 +30,14 @@ export default function Form({ onAddItem }) {
           </option>
         ))}
       </select>
+
       <input
         type="text"
         placeholder="Item..."
         value={description}
         onChange={(e) => setDescription(e.target.value)}
       />
+
       <button>Add</button>
     </form>
   );
