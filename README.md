@@ -1,9 +1,5 @@
 # Travel List
 
-## Preview
-
-![preview img](./public/preview.png)
-
 ## Download
 
 1. Clone this project
